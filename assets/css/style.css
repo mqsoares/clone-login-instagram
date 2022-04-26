@@ -93,3 +93,36 @@ body {
     color: #0095f6;
     font-weight: 600;
 }
+
+.instagram-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 3.3rem;
+}
+
+.footer-section-items {
+    text-decoration: none;
+    font-size: 0.75rem;
+    color: #8e8e8e;
+}
+
+.section1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.6rem;
+}
+
+.section2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.6rem;
+}
+
+.section3 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.6rem;
+    margin-top: 0.6rem;
+}
