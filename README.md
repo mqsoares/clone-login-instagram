@@ -1,8 +1,8 @@
 <h1> Clone / login do instagram </h1>
 
 <h2>Descrição</h2>
-<p>Nesse projeto o grande desafio foi de reconstruir o CLONE exato da página de login do Instagram.<br>
-  desde o posicionamento de elementos ao slide de imagens que compõe o layout.<br>
+<p>Nesse projeto o grande desafio foi de reconstruir o CLONE fiél da página de login do Instagram.<br>
+  desde o posicionamento de elementos ao slide de imagens que existe no layout original.<br>
   <br>
   Utilizei Flexbox para posicionamento dos elementos e JavaScript para o slide de imagens.<br>
 <br></p>
