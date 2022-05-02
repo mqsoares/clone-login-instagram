@@ -126,3 +126,51 @@ body {
     gap: 1.6rem;
     margin-top: 0.6rem;
 }
+
+@media (max-width: 875px) {
+
+    .instagram-phone {
+        display: none;
+    }
+
+    .instagram-continue {
+        padding: 3rem 0;
+    }
+
+    .instagram-wrapper {
+        width: auto;
+    }
+
+    .instagram-footer {
+        margin-top: 3.3rem;
+    }
+
+    .section1 {
+        gap: 0.5rem 1.6rem;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 450px) {
+    .group {
+        background-color: transparent;
+        border: none;
+    }
+
+    .instagram-logo {
+        margin-top: 0;
+    }
+
+    .instagram-continue {
+        padding: 1rem 0;
+    }
+
+    .instagram-footer {
+        margin: 3.3rem 1rem;
+    }
+
+    .section2 {
+        gap: 0.5rem 1.6rem;
+        justify-content: center;
+    }
+}
